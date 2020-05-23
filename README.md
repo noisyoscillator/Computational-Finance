@@ -5,3 +5,5 @@
 [Tools for Computational Finance](https://www.springer.com/gp/book/9781447129936)
 
 [Numerical Methods in Finance](https://www.cambridge.org/in/academic/subjects/mathematics/mathematical-finance/numerical-methods-finance?format=PB)
+
+[Advanced Topics in Computational Partial Differential Equations](https://books.google.co.in/books?id=kxjyCAAAQBAJ&lr=&source=gbs_navlinks_s)
